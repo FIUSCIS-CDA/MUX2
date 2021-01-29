@@ -226,18 +226,6 @@ refer to the applicable agreement for further details.
 	(pt 480 144)
 )
 (connector
-	(pt 528 144)
-	(pt 600 144)
-)
-(connector
-	(pt 600 144)
-	(pt 600 216)
-)
-(connector
-	(pt 600 216)
-	(pt 648 216)
-)
-(connector
 	(pt 328 224)
 	(pt 536 224)
 )
@@ -298,5 +286,18 @@ refer to the applicable agreement for further details.
 (connector
 	(pt 736 288)
 	(pt 768 288)
+)
+(connector
+	(pt 528 144)
+	(pt 600 144)
+)
+(connector
+	(text "notS" (rect 584 183 601 204)(font "Intel Clear" )(vertical))
+	(pt 600 144)
+	(pt 600 216)
+)
+(connector
+	(pt 600 216)
+	(pt 648 216)
 )
 (junction (pt 448 144))
